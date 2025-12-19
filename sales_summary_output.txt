@@ -1,0 +1,7 @@
+Basic Sales Summary:
+
+    product  total_quantity  total_revenue
+0   Keyboard               5          7500
+1     Laptop               3        180000
+2     Monitor              3         36000
+3       Mouse              18          9000
